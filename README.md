@@ -1,4 +1,4 @@
-# Alfred-WARP Terminal Features
+# alfred-warp-terminal-features
 
 This repository contains an Alfred feature for WARP, an alternative terminal for macOS.
 

@@ -10,7 +10,7 @@ To use this AppleScript code with the Alfred app, follow these steps:
 2. Click on "Features"
 3. Click on "Terminal"
 4. Under "Application," select "Custom"
-5. Copy and paste the AppleScript code into the text box
+5. Copy and paste the [AppleScript](https://github.com/mircolik/alfred-wasp-terminal-features/blob/main/alfred_wasp_feature.scpt) code into the text box
 
 After completing these steps, you should be able to activate the script by invoking Alfred and typing in the keyword specified in the Alfred workflow, which should open or activate the Warp application and execute the specified keystrokes.
 

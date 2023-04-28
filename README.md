@@ -2,6 +2,10 @@
 
 This repository contains an Alfred feature for WARP, an alternative terminal for macOS.
 
+## Description
+
+The code I provided is an AppleScript that can be used with the Alfred app to open or activate the WARP terminal application and execute specified keystrokes. It first checks if WARP is running and if not, it opens a new window. It then executes the specified keystrokes, which in this case is the input provided by the user. This allows for quick and easy access to WARP through the use of Alfred.
+
 ## Installation
 
 To use this AppleScript code with the Alfred app, follow these steps:
